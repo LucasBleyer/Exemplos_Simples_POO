@@ -1,5 +1,5 @@
 /*   
-2.
+1.
 a) Crie a classe Aluno
 b) Especifique três atributos para o aluno e, para cada um deles, crie métodos de acesso (get)
 e métodos de atualização (set)
